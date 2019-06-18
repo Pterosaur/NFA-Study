@@ -1,4 +1,5 @@
 # NFA-Study
+[![Build Status](https://travis-ci.com/Pterosaur/NFA-Study.svg?branch=master)](https://travis-ci.com/Pterosaur/NFA-Study)
 
 NFA study
 
@@ -12,6 +13,7 @@ NFA study
 ### Construction
 
 ## Thompson NFA
+- [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
 
 #### Reference
 
