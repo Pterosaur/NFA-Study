@@ -1,5 +1,5 @@
 # NFA-Study
-[![Build Status](https://travis-ci.com/Pterosaur/NFA-Study.svg?branch=master)](https://travis-ci.com/Pterosaur/NFA-Study)
+[![Build Status](https://travis-ci.com/Pterosaur/Regex-Study.svg?branch=master)](https://travis-ci.com/Pterosaur/Regex-Study)
 
 NFA study
 
